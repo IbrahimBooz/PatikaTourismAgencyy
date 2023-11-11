@@ -29,14 +29,24 @@ In this project, 3 types of users are defined. Employee: It has the authority to
 
 Administrator: Has the authority to add and delete users. This screen is designed to use their authorizations.
 
-<img alt="SQL" src="img/adminscreen.png" width="650" height="350" />
+<img alt="SQL" src="img/adminscreen.png" width="850" height="350" />
 
 
 # Employee Screen
 
 Employee: Has the authority to add a hotel, add rooms to the hotel and price the rooms.  This screen allows them to perform these operations. Photos have been added to make the examples more descriptive.
 
-<img alt="SQL" src="img/hotellist.png" width="650" height="350" />
+<img alt="SQL" src="img/hotellist.png" width="850" height="350" />
 
+<p>Hotel Addition Interface</p>
 
+<img alt="SQL" src="img/hoteladd.png" width="450" height="550" />
+
+<p>Room Addition Interface</p>
+
+<img alt="SQL" src="img/roomadd.png" width="350" height="350" />
+
+<p>Interface for adding prices to hotels and hostels</p>
+
+<img alt="SQL" src="img/hotelprice.png" width="350" height="450" />
 
