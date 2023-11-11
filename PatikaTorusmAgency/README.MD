@@ -40,7 +40,7 @@ Employee: Has the authority to add a hotel, add rooms to the hotel and price the
 
 <p>Hotel Addition Interface</p>
 
-<img alt="SQL" src="img/hoteladd.png" width="450" height="550" />
+<img alt="SQL" src="img/hoteladd.png" width="750" height="550" />
 
 <p>Room Addition Interface</p>
 
@@ -50,3 +50,32 @@ Employee: Has the authority to add a hotel, add rooms to the hotel and price the
 
 <img alt="SQL" src="img/hotelprice.png" width="350" height="450" />
 
+<p>Season Addition Interface</p>
+
+<img alt="SQL" src="img/seeasonadd.png" width="350" height="350" />
+
+# User Screen
+
+User: It has Hotel Search, New Reservation Adding and Listing authorizations.
+
+
+
+<p>Interface to list and process reservations made</p>
+
+<img alt="SQL" src="img/reservationlist.png" width="350" height="350" />
+
+<p>To list the rooms that are available.</p>
+
+<img alt="SQL" src="img/roomlist.png" width="350" height="350" />
+
+<p>Interface to list and process reservations made</p>
+
+<img alt="SQL" src="img/reservationlist.png" width="350" height="350" />
+
+<p>After the search process is completed, it brings the information of the relevant hotel to make a reservation.s</p>
+
+<img alt="SQL" src="img/searchlist.png" width="350" height="350" />
+
+<p>This interface is designed to make reservations after retrieving information after searching for available rooms</p>
+
+<img alt="SQL" src="img/HotelRes.png" width="950" height="350" />
