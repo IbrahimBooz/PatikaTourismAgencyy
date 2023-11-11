@@ -59,10 +59,9 @@ Employee: Has the authority to add a hotel, add rooms to the hotel and price the
 User: It has Hotel Search, New Reservation Adding and Listing authorizations.
 
 
-
 <p>Interface to list and process reservations made</p>
 
-<img alt="SQL" src="img/reservationlist.png" width="350" height="350" />
+<img alt="SQL" src="img/reservationlist.png" width="650" height="350" />
 
 <p>To list the rooms that are available.</p>
 
@@ -70,7 +69,7 @@ User: It has Hotel Search, New Reservation Adding and Listing authorizations.
 
 <p>Interface to list and process reservations made</p>
 
-<img alt="SQL" src="img/reservationlist.png" width="350" height="350" />
+<img alt="SQL" src="img/reservationlist.png" width="650" height="350" />
 
 <p>After the search process is completed, it brings the information of the relevant hotel to make a reservation.s</p>
 
