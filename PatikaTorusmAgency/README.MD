@@ -65,7 +65,7 @@ User: It has Hotel Search, New Reservation Adding and Listing authorizations.
 
 <p>To list the rooms that are available.</p>
 
-<img alt="SQL" src="img/roomlist.png" width="350" height="350" />
+<img alt="SQL" src="img/roomlist.png" width="550" height="350" />
 
 <p>Interface to list and process reservations made</p>
 
